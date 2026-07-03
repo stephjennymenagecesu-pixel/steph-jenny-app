@@ -1,3 +1,3 @@
-# Steph & Jenny Gestion V6 Ultimate
+# Steph & Jenny Gestion V7 Définitive
 
-Application sans devis/factures/rappels automatiques. Modules : clients, interventions, planning, Floriane & Max, machines à 2,50 €, fiches paie, récapitulatifs, tâches, statistiques, dépenses, sauvegarde.
+Version définitive pour commencer la saisie. Sans devis, sans factures, sans rappels automatiques clients. Les machines à 2,50 € sont uniquement pour Floriane & Max.
