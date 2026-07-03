@@ -1,3 +1,3 @@
-# Steph & Jenny Gestion V7 Définitive
+# Steph & Jenny Gestion V10 Finale
 
-Version définitive pour commencer la saisie. Sans devis, sans factures, sans rappels automatiques clients. Les machines à 2,50 € sont uniquement pour Floriane & Max.
+Montants séparés Stéphanie/Jennyfer, chrono, reports, clôture, planning Google.
