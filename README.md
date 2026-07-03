@@ -1,3 +1,3 @@
-# Steph & Jenny Gestion V5 Pro
+# Steph & Jenny Gestion V6 Ultimate
 
-Machines facturées uniquement pour Floriane & Max à 2,50 €.
+Application sans devis/factures/rappels automatiques. Modules : clients, interventions, planning, Floriane & Max, machines à 2,50 €, fiches paie, récapitulatifs, tâches, statistiques, dépenses, sauvegarde.
