@@ -1,2 +1,3 @@
-# Steph & Jenny Gestion
-Application professionnelle de gestion : clients, interventions, planning, machines, récapitulatif mensuel et sauvegarde.
+# Steph & Jenny Gestion V5 Pro
+
+Machines facturées uniquement pour Floriane & Max à 2,50 €.
